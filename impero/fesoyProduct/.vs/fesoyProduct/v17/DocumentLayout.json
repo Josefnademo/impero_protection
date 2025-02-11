@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\YOSEF\\ya\\IT(Web project)\\impero\\fesoyProduct\\",
+  "WorkspaceRootPath": "C:\\Users\\pn25kdv\\Documents\\GitHub\\impero_protection\\impero\\fesoyProduct\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63AA339E-16A5-4FD9-95F4-5ECE4F50F48B}|fesoyProduct\\fesoyProduct.csproj|d:\\yosef\\ya\\it(web project)\\impero\\fesoyproduct\\fesoyproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63AA339E-16A5-4FD9-95F4-5ECE4F50F48B}|fesoyProduct\\fesoyProduct.csproj|c:\\users\\pn25kdv\\documents\\github\\impero_protection\\impero\\fesoyproduct\\fesoyproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63AA339E-16A5-4FD9-95F4-5ECE4F50F48B}|fesoyProduct\\fesoyProduct.csproj|solutionrelative:fesoyproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\YOSEF\\ya\\IT(Web project)\\impero\\fesoyProduct\\fesoyProduct\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pn25kdv\\Documents\\GitHub\\impero_protection\\impero\\fesoyProduct\\fesoyProduct\\Program.cs",
               "RelativeDocumentMoniker": "fesoyProduct\\Program.cs",
-              "ToolTip": "D:\\YOSEF\\ya\\IT(Web project)\\impero\\fesoyProduct\\fesoyProduct\\Program.cs",
+              "ToolTip": "C:\\Users\\pn25kdv\\Documents\\GitHub\\impero_protection\\impero\\fesoyProduct\\fesoyProduct\\Program.cs",
               "RelativeToolTip": "fesoyProduct\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowDcAAAAAAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAiwHgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T09:50:11.762Z",
               "EditorCaption": ""
